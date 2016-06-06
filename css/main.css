@@ -1,0 +1,12 @@
+.map-world-regions {
+	max-width: 988px;
+	max-height: 613px;
+	margin-bottom: 25px;
+	background: url('../i/sprite.png') no-repeat 0 0;
+	background-size: cover;
+}
+
+.map-world-regions img[usemap],
+.map-world-regions area {
+	outline: none;
+}
